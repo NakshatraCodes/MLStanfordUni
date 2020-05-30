@@ -19,4 +19,5 @@ P = the probability that the program will win the next game.
 **Some types of Machine Learning Algorithms**
 - Supervised Learning *(Teach the computer how to do something)*
 - Unsupervised Learning *(Let the computer learn itself)*
-Other - Reinforcement Learning. Recommender Systems 
+
+- Others - Reinforcement Learning. Recommender Systems 
