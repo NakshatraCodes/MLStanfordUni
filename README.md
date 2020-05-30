@@ -1,6 +1,6 @@
 # Machine Learning by Andrew Ng (Stanford University)
 
-## Introduction to Machine Learning
+### Introduction to Machine Learning
 
 **Arthur Samuels Definition of Machine Learning (1959**
 
@@ -15,3 +15,8 @@ Example: playing checkers.
 E = the experience of playing many games of checkers
 T = the task of playing checkers.
 P = the probability that the program will win the next game.
+
+**Some types of Machine Learning Algorithms**
+- Supervised Learning *(Teach the computer how to do something)*
+- Unsupervised Learning *(Let the computer learn itself)*
+Other - Reinforcement Learning. Recommender Systems 
